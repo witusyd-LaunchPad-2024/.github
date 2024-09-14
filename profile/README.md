@@ -1,3 +1,6 @@
+
+![WIT LaunchPad Banner](./images/banner.png)
+
 ## Welcome to Women in Technology's 2024 LaunchPad!!
 
 
